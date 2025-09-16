@@ -1,0 +1,9 @@
+{
+  "timeout": 15,
+  "max_workers": 2,
+  "min_delay": 2,
+  "max_delay": 5,
+  "headless": false,
+  "max_retries": 1,
+  "proxies": []
+}
